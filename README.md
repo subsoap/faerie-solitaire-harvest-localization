@@ -16,7 +16,7 @@ You will need a GitHub account to contribute. Some basic git knowledge may be ne
 
 Text is first done in English and then translated into other languages. People who are gamers themselves and native speakers of the target language should be the only ones doing translations. The spirit of the text should not be changed ever, but localization does sometimes require changes. All text should follow US law at a minimum. If text offends people it should not be changed to be less offensive without first discussing the matter in an issue. If you have questions about specific text you can open an issue about it. If you are native speaker and notice an issue in the text but do not wish to help edit you can create an issue about the text problem.
 
-As an example of what we don't want, if text says "cheeseburger" we don't want that to be localized to "sushi" it should be translated as well as it can to describe whatever the original thing is.
+As an example of what we don't want, if text says "cheeseburger" we don't want that to be localized to "sushi" it should be translated as well as it can to describe whatever the original thing is. You should also never make up new text. If the meaining of the English and a target language for something is radically different then that is bad. If characters are completely different in English vs a target language then that is bad.
 
 If font glyphs for your target language are not available in game please create an issue.
 
