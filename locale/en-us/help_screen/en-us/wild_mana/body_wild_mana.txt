@@ -1,0 +1,15 @@
+Match multiple pairs of the same 
+color back-to-back to earn mana.
+
+Each time you fill the mana bar
+you will earn a wild. 
+
+Match any card with your wild 
+to remove that card.
+
+You can store as many wilds
+as you want, but each additional 
+wild will require extra mana.
+
+Wilds can be a tool or a trap.
+Use them wisely!

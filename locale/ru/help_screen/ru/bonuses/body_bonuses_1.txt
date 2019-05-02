@@ -1,0 +1,16 @@
+Bonuses you can get are
+- All Out: All deck, foundation
+spare and board cards gone.
+- No Wild used 
+- No Spare used
+- No Deck used
+
+- Get a combo of at least 7
+- Get a combo of at least 14
+- Get a combo of at least 18
+- Get a combo of at least 22
+
+- Highest combo above 2
+
+- Number of cards left in
+the deck.

@@ -1,0 +1,2 @@
+You can move cards
+to the free space.

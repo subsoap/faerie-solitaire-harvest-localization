@@ -1,0 +1,5 @@
+You gain a combo every time you match two of the same color cards in a row.
+
+Suit doesn't matter. The combo chain doesn't require the two matching cards to be the same as the last two card colors.
+
+There are 4 combo tiers, and each one will get you a new bonus.

@@ -1,0 +1,5 @@
+View your adventure progress on the world map.
+
+Select any previously-unlocked location to play it in quickplay mode.
+
+Quickplay mode grants extra resource rewards!

@@ -1,0 +1,16 @@
+Match two cards of the same value to 
+remove them from the board.
+
+Match cards of the same value 
+AND color for a bonus.
+
+Use the free space when it’s available
+to create a strategic opening.
+
+Try to remove cards from the board
+before using the deck cards.
+
+You can re-deal the deck once. 
+After that, you can retry.
+
+Develop your own strategies as you play.
