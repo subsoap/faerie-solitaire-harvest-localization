@@ -2,6 +2,8 @@
 
 This is the community translation project for Faerie Solitaire Harvest. We want to translate our games to as many languages as possible so that as many people in the world can enjoy our games. Many people have asked to help us translate our games so we are trying to make it easier to contribute to any language. We are a commercial company and we do invest money into paying for translations but it can also be incredibly expensive so naturally we prioritize the largest languages. If we could afford to pay for every language to be done professionally we would but we are also a small, independent company so rely on our friends and community to help.
 
+We have a Discord server you can join if you own FSH and look at the About screen. There is a translation channel there as well as langauge specific chat rooms.
+
 We translate store page text and game text. For game text there is general text and bulk text. General text includes things like text that goes on buttons, help screen text. Bulk text includes things such as character dialog, cutscenes, lore. Bulk text can be very large such as up to 20,000 words or more! Obviously by reading this text you could be exposed to spoilers and secrets better experienced first time through gameplay so beware. Currently we are not including much of the bulk text, only mostly core game text for now.
 
 We put any professional translation done into this git too. Even pros can make mistakes. You might find issues in the English text too and corrections for it are also accepted. It's possible keys have embarrassing typos that we have not noticed yet too!
