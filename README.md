@@ -32,6 +32,8 @@ Currently RTL languages (Hebrew, Arabic, Farsi) are not supported but may be sup
 
 Clone the git, copy and paste the en-us folder, and then edit its related files to the proper LCID string key (always lowercase). Here is a reference: http://wiki.freepascal.org/Language_Codes We're not strict on this though so if you think a better code would work go for it for example we use cz-hanz for Simplified Chinese and cz-hant for Traditional Chinese. We also use the country code (JP) for Japanese instead of its language code (JA).
 
+Before you jump on a new langauge please make sure there is no other recent issue by anyone else saying they are starting on that language, otherwise please create an issue saying that just so others can see.
+
 We probably don't need other versions of English but if you want to add one which is colour instead of color go for it.
 
 Changes to the English (en-us) text will be made over time. Adding new strings or modifying existing strings to reflect changes in English version must be done manually. If the game does not find strings it is looking for in a language other than English it will select the English version instead.
