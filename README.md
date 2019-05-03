@@ -40,7 +40,7 @@ Make sure line ending style is Unix
 
 ![line-ending](https://user-images.githubusercontent.com/409170/57166970-c9462580-6db0-11e9-8c1a-16df1ee6754a.png)
 
-These can be set with many text editing programs such as Notepad++.
+These can be set with many text editing programs such as Notepad++ (if you use N++ make sure your version is up to date).
 
 # How to add a new language:
 
