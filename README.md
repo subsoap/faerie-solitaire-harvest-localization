@@ -30,6 +30,18 @@ If font glyphs for your target language are not available in game please create 
 
 Currently RTL languages (Hebrew, Arabic, Farsi) are not supported but may be supported in the future.
 
+# File Encoding and Line Endings
+
+Make sure file encoding is UTF-8 without BOM
+
+![encoding](https://user-images.githubusercontent.com/409170/57166969-c9462580-6db0-11e9-9e38-f48f4720f9ae.png)
+
+Make sure line ending style is Unix
+
+![line-ending](https://user-images.githubusercontent.com/409170/57166970-c9462580-6db0-11e9-8c1a-16df1ee6754a.png)
+
+These can be set with many text editing programs such as Notepad++.
+
 # How to add a new language:
 
 Clone the git, copy and paste the en-us folder, and then edit its related files to the proper LCID string key (always lowercase). Here is a reference: http://wiki.freepascal.org/Language_Codes We're not strict on this though so if you think a better code would work go for it for example we use cz-hanz for Simplified Chinese and cz-hant for Traditional Chinese. We also use the country code (JP) for Japanese instead of its language code (JA).
