@@ -1,0 +1,15 @@
+Associez plusieurs paires de la même 
+couleur succesivement pour gagner de la Mana.
+
+À chaque fois que vous remplisez votre barre de Mana,
+vous gagnerez un Wild. 
+
+Faite associez n'importe quelle carte avec votre Wild 
+pour retirer cette carte.
+
+Vous pouvez emmagasiner autant de Wild
+que vous voulez, mais chaque Wild  
+additionel va demander plus de Mana.
+
+Les Wilds peuvent être un outil ou un piège.
+Utiliser-les avec prudence!

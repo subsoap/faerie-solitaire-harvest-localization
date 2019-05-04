@@ -1,0 +1,41 @@
+{
+    "learn_to_play": {
+        "nodes":["title_learn_to_play", "body_learn_to_play", "subtitle_learn_to_play_1", "subtitle_learn_to_play_2", "subtitle_learn_to_play_3", "subtitle_learn_to_play_4"]
+    },
+    "wild_mana": {
+        "nodes":["title_wild_mana", "body_wild_mana", "subtitle_wild_mana_1", "subtitle_wild_mana_2", "subtitle_wild_mana_3"]
+    },
+    "bonuses": {
+        "nodes":["title_bonuses", "body_bonuses_1", "body_bonuses_2"]
+    },
+    "save_faeries": {
+        "nodes":["title_save_the_faeries", "body_save_the_faeries", "subtitle_save_the_faeries"]
+    },
+    "pets": {
+        "nodes":["title_pets", "body_pets_1", "body_pets_2", "body_pets_3"]
+    },
+    "resources": {
+        "nodes":["title_resources", "body_resources_1", "subtitle_resources_1", "subtitle_resources_2", "subtitle_resources_3", "subtitle_resources_4", "subtitle_resources_5"]
+    },
+    "todo": {
+        "nodes":["title_more_to_come", "body_more_to_come"]
+    },
+    "world_map_new": {
+        "nodes":["title_world_map_new", "body_world_map_new", "subtitle_world_map_new"]
+    },
+    "world_map_quickplay": {
+        "nodes":["title_world_map_quickplay", "body_world_map_quickplay", "subtitle_world_map_quickplay", "body_world_map_quickplay1"]
+    },
+    "world_map_ngp": {
+        "nodes":["title_world_map_ngp", "body_world_map_ngp", "subtitle_world_map_ngp"]
+    },
+    "quickplay_rewards": {
+        "nodes":["title_quickplay_rewards", "subtitle_quickplay_rewards", "body_quickplay_rewards", "body_quickplay_rewards1"]
+    },
+    "combos": {
+        "nodes":["title_combos", "body_combos", "body_combos_tiers", "subtitle_combos", "subtitle_combos1", "subtitle_combos2"]
+    },
+	"redeals": {
+			"nodes":["title_free_redeal", "body_free_redeal", "subtitle_redeal_1k", "subtitle_redeal_free", "subtitle_redeal_giveup", "subtitle_redeal_retry"]
+	}
+}

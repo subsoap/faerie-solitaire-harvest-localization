@@ -1,0 +1,5 @@
+Vous obtenez un combo à chaque fois que vous faites correspondre deux cartes de la même couleur.
+
+Les suites n'importe peu. La chaine de combo ne nécessites pas que les deux cartes correpondantes soit de la même couleur que les précédentes.
+
+Il y a quatre niveaux de combo et chancun vous donnera un nouveau bonus.

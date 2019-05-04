@@ -1,0 +1,16 @@
+Les bonus que vous pouvez avoir:
+- Tapis: Tout le Deck, la fondation,
+la réserve et les cartes sur la table disparaisse.
+- Pas de Wild utilisé 
+- Pas de réserve utilisé
+- Pas de Deck utilisé
+
+- Réussir un combo d'au moins 7
+- Réussir un combo d'au moins 14
+- Réussir un combo d'au moins 18
+- Réussir un combo d'au moins 22
+
+- Combo plus haut que 2
+
+- Nombre de cartes restantes dans
+le deck.

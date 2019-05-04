@@ -1,0 +1,16 @@
+﻿Associez deux cartes de même valeur
+pour les retirer de la table.
+
+Associez deux cartes de même valeur
+et de couleur pour un bonus!
+
+Utilisez l'espace libre a votre avantage
+lorsqu'il est disponible.
+
+Essayer de retirer les cartes de la table
+avant d'utiliser celle du deck.
+
+Vous pouvez remélanger le deck une fois 
+Après ça, vous pouvez réessayer.
+
+Développez votre propre stratégies en jouant.
